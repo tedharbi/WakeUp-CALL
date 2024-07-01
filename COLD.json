@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": " Iced Vanilla Macchiato",
+    "price": 250,
+    "image": "/WakeUp-CALL/img/image/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": " Cold Brew Coffee",
+    "price": 250,
+    "image": "/WakeUp-CALL/img/image/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": " Iced Americano",
+    "price": 290,
+    "image": "/WakeUp-CALL/img/image/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": " Iced Caramel Latte",
+    "price": 200,
+    "image": "/WakeUp-CALL/img/image/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": " Iced Caramel Macchiato",
+    "price": 300,
+    "image": "/WakeUp-CALL/img/image/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": " Iced Coffee",
+    "price": 200,
+    "image": "/WakeUp-CALL/img/image/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": " Iced Hazelnut Coffee",
+    "price": 200,
+    "image": "/WakeUp-CALL/img/image/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": " Oreo Iced Coffee ",
+    "price": 200,
+    "image": "/WakeUp-CALL/img/image/8.jpg"
+  }
+]
